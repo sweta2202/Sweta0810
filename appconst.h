@@ -1,0 +1,8 @@
+#ifndef APPCONST_H_INCLUDED
+#define APPCONST_H_INCLUDED
+
+#define NAME_LEN  64
+
+
+
+#endif // APPCONST_H_INCLUDED
